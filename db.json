@@ -1,0 +1,40 @@
+{
+  "ContactList": [
+    {
+      "id": "6b67",
+      "name": "Sainul Abid Tk",
+      "phone": 6238836355,
+      "whatsapp": 6238836355,
+      "email": "sainulabid2468@gmail.com",
+      "address": "Thurakkal Konikakkal(H),Anakkara (po),Palakkad(Dist),679551",
+      "location": "Anakkara,Palakkad"
+    },
+    {
+      "id": "c341",
+      "name": "Roshan",
+      "phone": 7838836354,
+      "whatsapp": 7838836354,
+      "email": "roshan@gmail.com",
+      "location": "Parembadam,Kunnamkulam",
+      "address": "Kalathil Valappil\n"
+    },
+    {
+      "id": "0309",
+      "name": "Akshay",
+      "phone": 9044569650,
+      "whatsapp": 9044569650,
+      "email": "aksahy123@gmail.com",
+      "address": "Meleppurath(H),Kozhikkode",
+      "location": "Perambra,Kozhikkode"
+    },
+    {
+      "name": "Vyshanv",
+      "phone": 7034136676,
+      "whatsapp": 7034136676,
+      "email": "vyshnavmv@gmail.com",
+      "address": "Thalakkulathur(H),Atholi,Porakkattri",
+      "location": "Purakkattiri,Calicut",
+      "id": "WrEq018"
+    }
+  ]
+}
